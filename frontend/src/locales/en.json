@@ -1,0 +1,20 @@
+{
+  "app_name": "PharmaSys",
+  "dashboard": "Dashboard",
+  "inventory": "Inventory",
+  "pos": "Point of Sale",
+  "reports": "Reports",
+  "settings": "Settings",
+  "login": "Login",
+  "logout": "Logout",
+  "welcome": "Welcome",
+  "add_medicine": "Add Medicine",
+  "search": "Search...",
+  "price": "Price",
+  "quantity": "Quantity",
+  "action": "Action",
+  "save": "Save",
+  "cancel": "Cancel",
+  "total": "Total",
+  "checkout": "Checkout"
+}
